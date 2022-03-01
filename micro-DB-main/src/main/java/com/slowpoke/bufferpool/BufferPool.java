@@ -25,7 +25,7 @@ import java.util.concurrent.ConcurrentHashMap;
  * buffer pool
  *
  * @author Dr. Chen
- * @version 1.0
+ * @version 1.1
  */
 public class BufferPool {
 
